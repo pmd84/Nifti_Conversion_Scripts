@@ -1,3 +1,4 @@
 NIFTI_converter_list.txt
 dsi_subs.txt
 NIFTI_CNIR_BIDS_converter_list.txt
+dcm2niix.exe
